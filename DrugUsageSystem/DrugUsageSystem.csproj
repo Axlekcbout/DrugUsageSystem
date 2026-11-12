@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>DrugUsageSystem</RootNamespace>
+    <AssemblyName>DrugUsageSystem</AssemblyName>
+    <Version>2.9.0</Version>
+    <Description>Система учёта использования препаратов (курсовой проект)</Description>
+  </PropertyGroup>
+
+</Project>

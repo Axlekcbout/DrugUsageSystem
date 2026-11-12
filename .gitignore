@@ -1,0 +1,12 @@
+## Папки сборки Visual Studio
+bin/
+obj/
+.vs/
+
+## Пользовательские файлы
+*.user
+*.suo
+
+## Публикация
+publish/
+*.pubxml
